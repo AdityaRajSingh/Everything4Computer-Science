@@ -1,43 +1,4 @@
-![Hacktoberfest](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg "Hacktoberfest")
-
-[![Gitter](https://badges.gitter.im/OpenSourceTalks/community.svg)](https://gitter.im/OpenSourceTalks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-# 🎃 HacktoberFest'19 Icebreaker Project 🎃
-
-This repo aims to give to an introduction as how the Open Source world functions.
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
-
-Make sure to grab some cool swags during [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community and completing some simple tasks in this project.
-
-This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
-
-Repo Link : [helios1101.github.io/hacktoberfest'19/](https://helios1101.github.io/hacktoberfest_19/)
-
-## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
-
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
-
-
-## Rules
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who successfully complete the challenge will earn a T-shirt.
-
-
-
-## Choose from these tasks 
-
-Here are 3 quick and painless ways to contribute to this project:
-
-* Task-1: [Add your name and description](https://github.com/helios1101/HacktoberFest_19/tree/master/Task1)
-Add your name to the website with description and make your way to Open Source.
-
-* Task-2: [Making your Own portfolio page](https://github.com/helios1101/HacktoberFest_19/tree/master/Task2) 
-Host your very own portfolio page in miniutes and share with us to get nearer to swags
-
-* Task-3: [Show Off coding skills](https://github.com/helios1101/HacktoberFest_19/tree/master/Task3)
-Help us in making a one stop place to find necessary codes and articles, which can very from `Hello World` to `Dynamic Programming` in any language of your choice.  
-
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+Practice making your first pull request to a public repository before doing the real thing!
 
 
 ## Steps to follow :scroll:
@@ -200,6 +161,5 @@ Please discuss it with us first by creating new issue.
 
 ## Code Maintainers:
 The project is maintained by :
- - [Harshit Singh](https://github.com/helios1101)
- - [Vishal Gorai](https://github.com/grehatlinux)
+ - [Aditya Raj Singh](https://github.com/AdityaRajSingh)
 
