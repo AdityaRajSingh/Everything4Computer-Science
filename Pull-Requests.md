@@ -10,9 +10,9 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [HacktoberFest_19](https://github.com/helios1101/HacktoberFest_19) by using the <a href="https://github.com/helios1101/HacktoberFest_19/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/helios1101/HacktoberFest_19/new/master?readme=1#fork-destination-box) at top-right of your screen.
+You can get your own fork/copy of [Everything4Computer-Science](https://github.com/AdityaRajSingh/Everything4Computer-Science) by using the <a href="https://github.com/AdityaRajSingh/Everything4Computer-Science/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/AdityaRajSingh/Everything4Computer-Science/new/master?readme=1#fork-destination-box) at top-right of your screen.
 
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/helios1101/HacktoberFest_19/)
+ [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/AdityaRajSingh/Everything4Computer-Science/)
 
 
 ### 2. Clone it :busts_in_silhouette:
@@ -22,16 +22,16 @@ You can get your own fork/copy of [HacktoberFest_19](https://github.com/helios11
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/Your_Username/HacktoberFest_19.git
+$ git clone https://github.com/Your_Username/Everything4Computer-Science.git
 ```
 
 > This makes a local copy of repository in your machine.
 
-Once you have cloned the `HacktoberFest_19` repository in Github, move to that folder first using change directory command on Linux, Mac and Windows(powershell to be used).
+Once you have cloned the `Everything4Computer-Science` repository in Github, move to that folder first using change directory command on Linux, Mac and Windows(powershell to be used).
 
 ```sh
-# This will change directory to a folder HacktoberFest_19
-$ cd Hacktoberfest_19
+# This will change directory to a folder Everything4Computer-Science
+$ cd Everything4Computer-Science
 ```
 
 Move to this folder for all other commands.
@@ -42,14 +42,14 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/HacktoberFest_19.git (fetch)
-origin  https://github.com/Your_Username/HacktoberFest_19.git (push)
+origin  https://github.com/Your_Username/Everything4Computer-Science.git (fetch)
+origin  https://github.com/Your_Username/Everything4Computer-Science.git (push)
 ```
 
-Now, lets add a reference to the original [HacktoberFest_19](https://github.com/helios1101/HacktoberFest_19/) repository using
+Now, lets add a reference to the original [Everything4Computer-Science](https://github.com/AdityaRajSingh/Everything4Computer-Science/) repository using
 
 ```sh
-$ git remote add upstream https://github.com/helios1101/HacktoberFest_19.git
+$ git remote add upstream https://github.com/AdityaRajSingh/Everything4Computer-Science.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -58,14 +58,14 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/HacktoberFest_19.git (fetch)
-origin    https://github.com/Your_Username/HacktoberFest_19.git (push)
+origin    https://github.com/Your_Username/Everything4Computer-Science.git (fetch)
+origin    https://github.com/Your_Username/Everything4Computer-Science.git (push)
 ```
 `In your ase you will see`
 ```sh
 $ git remote -V
-upstream  https://github.com/helios1101/HacktoberFest_19.git (fetch)
-upstream  https://github.com/helios1101/HacktoberFest_19.git (push)
+upstream  https://github.com/AdityaRajSingh/Everything4Computer-Science.git (fetch)
+upstream  https://github.com/AdityaRajSingh/Everything4Computer-Science.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -83,13 +83,13 @@ $ git checkout master
 # Reset local `master` branch to match `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `HacktoberFest_19` repo
+# Push changes to your forked `Everything4Computer-Science` repo
 $ git push origin master
 ```
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/helios1101/HacktoberFest_19/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/AdityaRajSingh/Everything4Computer-Science/pulls).
 
 ### 6. Create a new branch :bangbang:
 
