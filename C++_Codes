@@ -1,0 +1,2 @@
+C++ Erase vector element by value rather than by position?
+  - vec.erase(std::remove(vec.begin(), vec.end(), 8), vec.end());
